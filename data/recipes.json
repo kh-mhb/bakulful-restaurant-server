@@ -1,0 +1,293 @@
+[
+    {
+        "_id": "acb9b6785b62698fc6130db7615965e1",
+        "category_id": "1" ,
+        "ratings": 4.5,
+        "like": 120,
+        "food_name": "Spaghetti Carbonara",
+        "food_img": "https://www.sipandfeast.com/wp-content/uploads/2022/09/spaghetti-carbonara-recipe-snippet.jpg",
+        "recipe":"Spaghetti Carbonara is a sumptuous Italian pasta dish that balances creamy richness with savory perfection. Begin by boiling salted water for 12 ounces of spaghetti, cooking it until al dente and reserving a cup of pasta water. Meanwhile, crisp 3.5 ounces of pancetta or guanciale in a skillet, optionally adding minced garlic. In a bowl, whisk together 2 eggs, most of the Pecorino Romano cheese, and freshly ground black pepper. Drain the pasta and toss it in the skillet with the pancetta. Remove from heat and quickly mix in the egg mixture to create a creamy sauce. Garnish with cheese, pepper, and fresh parsley before serving hot."
+       
+    },
+    {
+        "_id": "cde0a79186d314f2b0fb1a8e15e7c5a2",
+        "category_id": "2" ,
+        "ratings": 4.2,
+        "like": 98,
+        "food_name": "Sushi Roll",
+        "food_img": "https://hips.hearstapps.com/hmg-prod/images/spicy-crab-rolls4-1654808938.jpg",
+        "recipe":"Sushi Rolls are a delicious Japanese dish made by rolling vinegared rice, fresh fish or vegetables, and seaweed in a sheet of nori. To prepare, lay a sheet of nori on a bamboo sushi mat, spread seasoned rice evenly, and add your choice of ingredients like sliced fish, avocado, cucumber, or cooked shrimp. Roll it tightly using the mat, wetting the edge to seal it. Slice into bite-sized pieces, serve with soy sauce, wasabi, and pickled ginger. Sushi Rolls offer a delightful combination of textures and flavors in each bite, making them a popular and delectable choice for sushi lovers worldwide."
+    },
+    {
+        "_id": "fgh1i23456j7k8901l23m4n56o78p915",
+        "category_id": "3" ,
+        "ratings": 4.7,
+        "like": 150,
+        "food_name": "Taco",
+        "food_img": "https://images-gmi-pmc.edge-generalmills.com/e59f255c-7498-4b84-9c9d-e578bf5d88fc.jpg",
+        "recipe":" Begin by browning 1 lb of ground beef in a skillet over medium heat until it's crumbly and browned. Drain any excess fat. Return the beef to the skillet and stir in a packet of taco seasoning along with 2/3 cup of water. Simmer until the mixture thickens, infusing the meat with flavor.Next, warm soft corn or flour tortillas in a dry skillet or microwave until they're warm and pliable. Spoon the seasoned beef onto each tortilla. Top with shredded lettuce, diced tomatoes, grated cheese, and a dollop of sour cream.Fold the tortillas, and your classic beef tacos are ready to enjoy. Customize with salsa, guacamole, or jalapeños to suit your taste."
+    },
+    {
+        "_id": "qrst2u3456v7w8x90y12z34567890153",
+        "category_id": "4" ,
+        "ratings": 4.0,
+        "like": 85,
+        "food_name": "Burger",
+        "food_img": "https://natashaskitchen.com/wp-content/uploads/2023/06/Cheeseburger.jpg",
+        "recipe":"Start by combining ground beef with finely chopped onions, salt, and pepper. Shape the mixture into patties and cook on a grill or in a skillet until they reach your desired level of doneness. Add cheese slices on top during the last minute of cooking, allowing them to melt. Meanwhile, lightly toast burger buns. Assemble the burgers with lettuce, tomato slices, onions, pickles, and condiments like ketchup and mustard. Serve alongside crispy fries or your favorite side dish for a satisfying meal."
+    },
+    {
+        "_id": "uvwxy3z456789012345abcdefghijklmnop154",
+        "category_id": "5" ,
+        "ratings": 4.8,
+        "like": 180,
+        "food_name": "Sushi Sashimi",
+        "food_img": "https://www.sushigallery.com.au/wp-content/uploads/2019/08/Sushi-Sashimi-Pack-scaled.jpg",
+        "recipe":"Sushi Sashimi showcases pristine slices of fresh raw fish, like tuna, salmon, or yellowtail. Begin by selecting high-quality, sushi-grade fish. Slice it thinly with a sharp knife. Arrange the slices on a chilled plate, garnish with pickled ginger, and serve with wasabi and soy sauce. The simplicity of Sushi Sashimi allows you to savor the pure, unadulterated flavors of the fish."
+    },
+    {
+        "_id": "abcdefghijklmno5pqrstuv7wxyz012d",
+        "category_id": "6" ,
+        "ratings": 4.3,
+        "like": 105,
+        "food_name": "Pizza Margherita",
+        "food_img": "https://img.taste.com.au/WKf_2-pd/w1200-h630-cfill/taste/2016/11/eat-pray-love-39581-3.jpeg",
+        "recipe":"For a classic Pizza Margherita, spread a thin layer of homemade or store-bought tomato sauce over a pizza dough. Layer fresh mozzarella cheese slices on top. Bake in a preheated oven until the crust is crispy and golden, and the cheese has melted and slightly browned. Once out of the oven, scatter fresh basil leaves over the hot pizza, drizzle it with extra-virgin olive oil, and season with a pinch of salt. The result is a harmonious blend of flavors, showcasing the simplicity of Italian cuisine."
+    },
+    {
+        "_id": "qrstuvwxyz012345abcdefg7hijklmnop159",
+        "category_id": "7" ,
+        "ratings": 4.6,
+        "like": 135,
+        "food_name": "Pho",
+        "food_img": "https://www.halfbakedharvest.com/wp-content/uploads/2021/02/Weeknight-Ginger-Chicken-Pho-1-500x500.jpg",
+        "recipe":"Pho is a fragrant Vietnamese noodle soup. Start by simmering beef or chicken bones with spices like star anise, cinnamon, and cloves to create a flavorful broth. Cook rice noodles until tender. Thinly slice your choice of meat (commonly beef or chicken) and add it to the hot broth, allowing it to cook briefly. Serve the steaming bowl of Pho with bean sprouts, lime wedges, fresh basil, cilantro, and Sriracha on the side. Customize your bowl with these garnishes to create a warm and comforting Vietnamese culinary experience."
+    },
+
+    {
+        "_id": "hijklmnop1q2r3s4t5u6789vwxyz0abcde160",
+        "category_id": "8" ,
+        "ratings": 4.4,
+        "like": 115,
+        "food_name": "Sushi Nigiri",
+        "food_img": "https://thekitchencommunity.org/wp-content/uploads/2021/01/Nigiri-1024x682.jpg",
+        "recipe":"Sushi Nigiri consists of vinegared sushi rice hand-formed into small oblong shapes, typically topped with slices of fresh raw fish. To make Nigiri, wet your hands with water and a bit of rice vinegar to prevent sticking. Take a small amount of seasoned sushi rice and form it into an elongated shape. Place a thin slice of sushi-grade fish (such as salmon or tuna) on top of the rice. Add a dab of wasabi between the rice and fish. To hold it together, you can use a thin strip of seaweed or a gentle squeeze. Serve with soy sauce for dipping. The result is a bite-sized, flavorful delight that showcases the harmony of rice and fish."
+    },
+    {
+        "_id": "a1b2c3d4e5f6g7h8",
+        "category_id": "1" ,
+        "ratings": 4.5,
+        "like": 120,
+        "food_name": "Chicken Alfredo",
+        "food_img": "https://www.macheesmo.com/wp-content/uploads/2021/06/Chicken-Alfredo-Penne-hero-Feature.jpg",
+        "recipe":"Sauté bite-sized chicken pieces in butter until cooked. Cook fettuccine pasta until al dente. In a saucepan, combine heavy cream, butter, grated Parmesan cheese, and minced garlic. Simmer until it thickens. Toss cooked pasta with the creamy Alfredo sauce and chicken. Season with salt and pepper, garnish with fresh parsley, and serve hot."
+    },
+    {
+        "_id": "b2c3d4e5f6g7h9",
+        "category_id": "2" ,
+        "ratings": 4.2,
+        "like": 98,
+        "food_name": "Sushi Tempura",
+        "food_img": "https://hips.hearstapps.com/hmg-prod/images/sushi-salmon-roll-royalty-free-image-1661372140.jpg",
+        "recipe":"Sushi Tempura is a delightful fusion of Japanese and tempura cuisine. Prepare sushi rolls with your choice of fillings, such as tempura shrimp, avocado, and cucumber. Wrap the rolls in seaweed and then coat them with tempura batter. Deep-fry the rolls until they turn golden and crispy. Carefully slice the tempura sushi into bite-sized pieces, revealing the contrasting textures of crispy tempura and soft, flavorful fillings. Serve these tempura delights with soy sauce for dipping, pickled ginger for a hint of tanginess, and a dollop of wasabi for a touch of heat."
+    },
+    {
+        "_id": "c3d4e5f6g7h0i1",
+        "category_id": "3" ,
+        "ratings": 4.7,
+        "like": 150,
+        "food_name": "Burrito Bowl",
+        "food_img": "https://bakeitwithlove.com/wp-content/uploads/2023/03/steak-burrito-bowl-h1.jpg",
+        "recipe":"A Burrito Bowl is a customizable and wholesome meal. Begin by cooking fluffy rice and season it with a squeeze of fresh lime juice and finely chopped cilantro for a burst of flavor. Top the rice with grilled chicken marinated in your favorite spices, along with black beans, sweet corn, chunky salsa, creamy avocado slices, and a generous sprinkle of shredded cheese. Drizzle the bowl with tangy sour cream for a rich contrast. Finish it off with a garnish of fresh cilantro leaves for a burst of freshness. It's a vibrant and satisfying meal that allows you to tailor it to your taste."
+    },
+    {
+        "_id": "d4e5f6g7h1i2j3",
+        "category_id": "4" ,
+        "ratings": 4.0,
+        "like": 85,
+        "food_name": "BBQ Burger",
+        "food_img": "https://vanillaandbean.com/wp-content/uploads/2021/06/BBQChiCkpeaBurgers-25-500x500.jpg",
+        "recipe":"A BBQ Burger is a delightful twist on the classic. Start by grilling beef patties seasoned with your preferred BBQ sauce. While the patties cook, lightly toast burger buns for a satisfying crunch. Assemble the burger with crisp lettuce leaves, juicy tomato slices, crispy bacon strips, melty cheese of your choice, and a stack of thinly sliced onions for a mild bite. Add a generous helping of your favorite BBQ sauce to infuse the burger with smoky sweetness. The result is a savory and slightly sweet burger that's perfect for BBQ lovers"
+    },
+    {
+        "_id": "e5f6g7h2i3j4k5",
+        "category_id": "5" ,
+        "ratings": 4.8,
+        "like": 180,
+        "food_name": "Salmon Sashimi",
+        "food_img": "https://example.com/images/salmon_sashimi.jpg",
+        "recipe":"Salmon Sashimi is a delicate Japanese dish that highlights the pure, buttery flavors of fresh salmon. To prepare, start by selecting the freshest, sushi-grade salmon available. With a sharp knife, slice the salmon into thin, elegant pieces. Arrange these slices gracefully on a chilled plate, allowing their vibrant pink hue to shine. Accompany the salmon with delicate pickled ginger to cleanse your palate, a dab of fiery wasabi for a hint of heat, and a small dish of soy sauce for dipping. Each bite is a harmonious blend of creamy salmon and nuanced umami, making it a true delicacy."
+    },
+    {
+        "_id": "f6g7h3i4j5k6l7",
+        "category_id": "6" ,
+        "ratings": 4.3,
+        "like": 105,
+        "food_name": "Margherita Pizza",
+        "food_img": "https://www.matsuhisarestaurants.com/wp-content/uploads/2019/07/shutterstock_660580252.jpg",
+        "recipe":"Margherita Pizza is a timeless Italian classic that celebrates simplicity and balance. Begin by spreading a thin layer of vibrant tomato sauce over your prepared pizza dough. Layer slices of fresh mozzarella cheese generously on top. Slide the pizza into a preheated oven and bake until the crust turns golden and crisp, and the cheese becomes irresistibly melty and slightly browned. Once out of the oven, scatter fragrant, whole basil leaves atop the hot pizza. Drizzle it with a fine extra-virgin olive oil and season with a pinch of flaky sea salt. This Margherita Pizza is a symphony of flavors, exemplifying the elegance of Italian cuisine."
+    },
+    {
+        "_id": "g7h4i5j6k7l8m9",
+        "category_id": "7" ,
+        "ratings": 4.6,
+        "like": 135,
+        "food_name": "Beef Pho",
+        "food_img": "https://static01.nyt.com/images/2015/07/08/dining/08JPDRO2/08JPDRO2-superJumbo-v2.jpg",
+        "recipe":"Beef Pho is a fragrant Vietnamese noodle soup that's both comforting and aromatic. To prepare, simmer beef bones with an array of aromatic spices, including star anise, cinnamon, cloves, and ginger, to create a deeply flavorful broth. Add rice noodles to the hot broth and let them cook until tender and inviting. Thinly slice your choice of beef (commonly beef eye round or flank steak) and place it into the simmering broth, allowing it to cook briefly until it's tender and succulent. To serve, garnish the steaming bowl of Pho with an assortment of fresh accompaniments such as bean sprouts, lime wedges, fragrant basil leaves, and lively cilantro sprigs. Offer a side of Sriracha sauce for a touch of heat, and you're ready to enjoy this warm and comforting Vietnamese culinary masterpiece."
+    },
+    {
+        "_id": "h8i5j6k7l9m0n1",
+        "category_id": "8" ,
+        "ratings": 4.4,
+        "like": 115,
+        "food_name": "Eel Sushi Nigiri",
+        "food_img": "https://thekitchencommunity.org/wp-content/uploads/2021/01/Nigiri-Vs.-Sashimi-1024x682.jpg",
+        "recipe":"Eel Sushi Nigiri, known as Unagi in Japanese cuisine, offers a delightful balance of flavors and textures. Start by grilling or broiling eel (unagi) until it's tender and glazed with a sweet and savory eel sauce. Next, prepare vinegared sushi rice and shape it into small oblong pieces. Lay a warm, succulent slice of eel over each rice mound. To enhance the flavor, brush the eel with more eel sauce. Finally, serve the Eel Sushi Nigiri with a side of pickled ginger and a small dish of soy sauce for dipping. Each bite offers a delightful fusion of tender, sweet eel and perfectly seasoned sushi rice, making it a savory and satisfying sushi experience."
+    },
+    {
+        "_id": "1a2b3c4d5e6f7g8",
+        "category_id": "1" ,
+        "ratings": 4.2,
+        "like": 135,
+        "food_name": "Fettuccine Alfredo",
+        "food_img": "https://challengedairy.com/sites/default/files/recipe/images/recipe_fettuccine_alfredo_2280.jpg",
+        "recipe":"Indulge in the velvety goodness of Fettuccine Alfredo. Cook fettuccine pasta until it's perfectly al dente, and in a separate saucepan, combine heavy cream, unsalted butter, freshly grated Parmesan cheese, and finely minced garlic. Simmer the sauce until it thickens and becomes irresistibly creamy. Toss the cooked pasta in this luscious Alfredo sauce, and season with a pinch of salt and a generous grind of black pepper. Finish with a garnish of fresh, chopped parsley for a burst of color and freshness. Each bite is a silky, cheesy, and garlicky delight."
+    },
+    {
+        "_id": "2b3c4d5e6f7g9h0",
+        "category_id": "2" ,
+        "ratings": 4.0,
+        "like": 110,
+        "food_name": "Dragon Roll Sushi",
+        "food_img": "https://asset.kompas.com/crops/VALzdOZ1eu_Eymmh_x6YXTYliMs=/0x26:1242x854/750x500/data/photo/2020/12/18/5fdc70b125571.jpeg",
+        "recipe":"The Dragon Roll Sushi is a showstopper. Begin by preparing a sushi roll filled with avocado, cucumber, and tempura shrimp. To give it the dragon appearance, layer thin slices of ripe avocado over the top, creating a scale-like pattern. Lay a generous slice of grilled eel (unagi) on the avocado, and brush it with luscious eel sauce, adding a sprinkle of sesame seeds and finely chopped scallions for extra flavor and visual appeal. Slice the Dragon Roll into bite-sized pieces and serve with a side of soy sauce for dipping. This sushi masterpiece is a harmonious blend of textures and flavors."
+    },
+    {
+        "_id": "3c4d5e6f7g0h1i2",
+        "category_id": "3" ,
+        "ratings": 4.8,
+        "like": 150,
+        "food_name": "Chicken Quesadilla",
+        "food_img": "https://images-gmi-pmc.edge-generalmills.com/28bba373-c698-4645-8f8d-c2ff60306725.jpg",
+        "recipe":"Craft a mouthwatering Chicken Quesadilla by layering shredded cooked chicken, a blend of shredded cheese, and diced bell peppers between two flour tortillas. Heat the quesadilla in a skillet until the cheese is gooey, and the tortillas turn golden and crispy. As it cooks, the cheese melts, creating a deliciously cheesy and flavorful filling. Slice the quesadilla into wedges and serve it alongside zesty salsa and a dollop of cool sour cream. It's a comforting and savory treat, perfect for a quick meal or snack."
+    },
+    {
+        "_id": "4d5e6f7g1h2i3j4",
+        "category_id": "4" ,
+        "ratings": 4.3,
+        "like": 95,
+        "food_name": "Veggie Burger",
+        "food_img": "https://realfood.tesco.com/media/images/RFO-1400x919-HalloumiBurger-14062897-b5c1-4b1b-a00b-dcfe8114e0ee-0-1400x919.jpg",
+        "recipe":"Elevate your veggie burger game by grilling or cooking a flavorful veggie patty made from ingredients like black beans, quinoa, and assorted vegetables. Place the cooked patty on a soft burger bun and layer it with crisp lettuce leaves, juicy tomato slices, thinly sliced red onions, and your choice of condiments. Whether you prefer ketchup, mustard, mayo, or a special sauce, add your favorite to enhance the flavors. Customize it further with toppings like avocado, cheese, or pickles. This Veggie Burger is a satisfying and wholesome alternative that satisfies both your taste buds and dietary preferences."
+    },
+    {
+        "_id": "5e6f7g2h3i4j5k6",
+        "category_id": "5" ,
+        "ratings": 4.7,
+        "like": 170,
+        "food_name": "Tuna Sashimi",
+        "food_img": "https://www.thespruceeats.com/thmb/I_CmojKjlAX-C_QYiXx0xOD23fI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tuna-sashimi-with-daikon-and-ginger-1300697-Hero-01-e3d2f516b593471d957e85ef1f574dd2.jpg",
+        "recipe":"Tuna Sashimi celebrates the pure essence of fresh sushi-grade tuna. Begin by selecting the finest, freshest tuna available. With a sharp knife, slice the tuna into delicate, paper-thin pieces. Arrange these elegant slices on a chilled plate, allowing the vibrant red color to shine. Accompany the tuna with pickled ginger to cleanse your palate, a dab of pungent wasabi for a touch of heat, and a small dish of soy sauce for dipping. Each bite is a sublime blend of buttery tuna and subtle umami, making it a culinary delicacy that showcases the beauty of simplicity."
+    },
+    {
+        "_id": "6f7g3h4i5j6k7l8",
+        "category_id": "6" ,
+        "ratings": 4.5,
+        "like": 120,
+        "food_name": "Pepperoni Pizza",
+        "food_img": "https://www.allrecipes.com/thmb/ULiSEmH8Tje7Hh-TW1aN2P8dC98=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/240376-homemade-pepperoni-pizza-Beauty-3x4-1-6ae54059c23348b3b9a703b6a3067a44.jpg",
+        "recipe":"Indulge in the classic comfort of Pepperoni Pizza. Begin by spreading a rich tomato sauce and a generous layer of shredded mozzarella cheese over a prepared pizza dough. Adorn the pizza with ample slices of savory pepperoni, known for their slightly spicy and smoky flavor. Slide the pizza into a preheated oven and bake until the crust becomes beautifully golden and crisp, and the cheese bubbles and turns golden. As it emerges from the oven, scatter aromatic and fragrant basil leaves over the hot pizza. Drizzle it with extra-virgin olive oil for a hint of richness and season it with a pinch of flaky sea salt. This Pepperoni Pizza is a delightful marriage of flavors and textures."
+    },
+    {
+        "_id": "7g4h5i6j7k8l9m0",
+        "category_id": "7" ,
+        "ratings": 4.6,
+        "like": 145,
+        "food_name": "Vietnamese Spring Rolls",
+        "food_img": "https://www.allrecipes.com/thmb/BjbddQDDSyYIJ5CdSvglQsw_6WA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/245343_AuthenticVietnameseSpringRolls_ddmf_01_4x3_JD_5538-f1bbd0a7f8924959a2498f19ed93bc95.jpg",
+        "recipe":"Craft Vietnamese Spring Rolls by soaking delicate rice paper sheets in warm water until they become pliable. Fill each sheet with a delectable combination of cooked shrimp, thin rice vermicelli noodles, fresh lettuce leaves, fragrant mint leaves, and vibrant cilantro sprigs. Roll the spring rolls tightly, folding in the sides, to create a neat and elegant package. Serve these fresh spring rolls with a velvety peanut dipping sauce that adds a delightful nutty and savory contrast. Each bite is a refreshing and crunchy burst of flavors and textures, perfect for a light and satisfying appetizer or snack"
+    },
+    {
+        "_id": "8h5i6j7k8l0m1n2",
+        "category_id": "8" ,
+        "ratings": 4.4,
+        "like": 125,
+        "food_name": "Salmon Nigiri Sushi",
+        "food_img": "https://img.taste.com.au/_vZeYukF/w643-h428-cfill-q90/taste/2016/11/grilled-salmon-nigiri-89646-1.jpeg",
+        "recipe":"Salmon Nigiri Sushi offers a sublime blend of delicate flavors and textures. Begin by crafting vinegared sushi rice and shaping it into small, oblong pieces. Top each rice mound with a pristine slice of fresh salmon, allowing the natural beauty of the fish to shine through. For an added layer of flavor, brush the salmon with a touch of soy sauce if desired. Serve the Salmon Nigiri with a side of pickled ginger, which provides a refreshing contrast, and a small dish of soy sauce for dipping. Each bite is a harmonious fusion of tender, buttery salmon and expertly seasoned sushi rice, creating a sushi experience that's both satisfying and elegant."
+    },
+    {
+        "_id": "9a8b7c6d5e4f3g2",
+        "category_id": "1" ,
+        "ratings": 4.6,
+        "like": 140,
+        "food_name": "Lasagna",
+        "food_img": "https://www.eatingwell.com/thmb/HOeWIu6PrECPUmaNFrLlUndBY-Q=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3755319-ad9269e6ec0e40fba701fe00cafd4b94.jpg",
+        "recipe":"Lasagna is a hearty Italian dish that layers flat lasagna noodles with a rich, meaty tomato sauce, creamy ricotta cheese, mozzarella cheese, and a sprinkle of Parmesan. The layers repeat, creating a delicious tower of flavors. After assembling, bake the lasagna in the oven until the cheese is bubbling and golden, and the edges turn crispy. Allow it to rest briefly before slicing into generous portions, each revealing the delightful layers of pasta, cheese, and savory sauce. It's a comforting and satisfying dish that pairs perfectly with garlic bread and a fresh green salad."
+    },
+    {
+        "_id": "0b1c2d3e4f5g6h7",
+        "category_id": "2" ,
+        "ratings": 4.1,
+        "like": 105,
+        "food_name": "Rainbow Roll Sushi",
+        "food_img": "https://massfoodandwine.com/wp-content/uploads/2015/08/Rainbow-Roll-and-Salmon-Avocado-Roll-from-Baba-Sushi.jpg",
+        "recipe":"Rainbow Roll Sushi is a vibrant and visually appealing creation. Begin by crafting a sushi roll filled with a harmonious combination of crab or imitation crab, creamy avocado, crisp cucumber, and tempura shrimp for a satisfying crunch. To achieve the rainbow effect, artfully layer thin slices of fresh tuna, salmon, and avocado over the top. Drizzle the roll with spicy mayo and eel sauce, which adds a delightful fusion of creaminess and sweetness. Slice the Rainbow Roll into elegant bite-sized pieces and serve with a side of soy sauce for dipping. Each bite is an explosion of colors and textures."
+    },
+    {
+        "_id": "1c2d3e4f5g6h7i8",
+        "category_id": "3" ,
+        "ratings": 4.9,
+        "like": 160,
+        "food_name": "Enchiladas",
+        "food_img": "https://inmamamaggieskitchen.com/wp-content/uploads/2021/09/Enchiladas-Verde-de-Pollo-1-1-1024x752.jpg",
+        "recipe":"Enchiladas are a flavorful Mexican dish that starts with corn tortillas filled with a scrumptious mixture of shredded chicken, savory cheese, and onions. Roll each tortilla into a compact cylinder and place them in a baking dish. Generously coat the enchiladas with a zesty enchilada sauce and a generous sprinkle of additional cheese. Bake until the enchiladas are heated through, the cheese is melted, and the edges turn golden. As they emerge from the oven, the aromas are irresistible. Serve with a dollop of sour cream and a garnish of fresh cilantro for a mouthwatering Mexican feast."
+    },
+    {
+        "_id": "2d3e4f5g6h7i8j9",
+        "category_id": "4" ,
+        "ratings": 4.2,
+        "like": 90,
+        "food_name": "Cheeseburger",
+        "food_img": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Cheeseburger_with_fries.jpg",
+        "recipe":"Savor the classic Cheeseburger by grilling beef patties seasoned with a dash of salt and pepper until they're perfectly juicy and slightly charred. While the patties cook, toast soft burger buns on the grill for a hint of smokiness. Assemble the burger with crisp lettuce leaves, ripe tomato slices, a generous layer of cheese—typically American, cheddar, or Swiss—and a stack of thinly sliced onions for a gentle bite. Add a dollop of ketchup and mustard to your taste. Customize it further with toppings like crispy bacon or pickles. This Cheeseburger is the epitome of a timeless and satisfying American classic."
+    },
+    {
+        "_id": "3e4f5g6h7i8j9k0",
+        "category_id": "5" ,
+        "ratings": 4.8,
+        "like": 175,
+        "food_name": "Salmon Nigiri Sushi",
+        "food_img": "https://assets3.thrillist.com/v1/image/2686853/1536x1024/crop;webp=auto;jpeg_quality=60;progressive.jpg",
+        "recipe":"Salmon Nigiri Sushi is a sushi masterpiece that starts with vinegared sushi rice expertly shaped into small, oblong pieces. These bite-sized rice mounds serve as the perfect canvas for showcasing the delicate, buttery flavors of fresh salmon. Each rice mound is crowned with a pristine slice of the finest, sushi-grade salmon, allowing its vibrant coral color to shine. For an added layer of flavor, you can brush the salmon with a touch of soy sauce if desired. Serve the Salmon Nigiri with a side of pickled ginger, which provides a refreshing contrast, and a small dish of soy sauce for dipping. Each bite is a harmonious fusion of tender, buttery salmon and expertly seasoned sushi rice, creating a sushi experience that's both satisfying and elegant."
+    },
+    {
+        "_id": "4f5g6h7i8j9k0l1",
+        "category_id": "6" ,
+        "ratings": 4.4,
+        "like": 115,
+        "food_name": "Mushroom Pizza",
+        "food_img": "https://www.allrecipes.com/thmb/9AfqdHvOHGkMq5Ynxo7Bzq7hR8w=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/149180-personal-portobello-pizza-SunnyByrd-4x3-1-2ac92d2f947a477d983902f9cad123a0.jpg",
+        "recipe":"Mushroom Pizza is a delightful creation that begins with a canvas of pizza dough. Begin by spreading a fragrant garlic-infused olive oil evenly across the dough, creating a rich and aromatic base that adds depth to every bite. Next, generously layer sautéed mushrooms across the pizza, which impart a delightful umami flavor that pairs perfectly with the other ingredients. A generous sprinkling of mozzarella cheese is the finishing touch, melting into the mushrooms and forming a luscious, golden layer. Slide the pizza into a preheated oven and bake until the crust turns golden and crispy, and the cheese becomes irresistibly bubbly and slightly browned. As the pizza emerges from the oven, scatter vibrant and fragrant fresh parsley over the hot pie for a burst of color and herbaceous freshness. The result is a Mushroom Pizza that's earthy, aromatic, and thoroughly satisfying."
+    },
+    {
+        "_id": "5g6h7i8j9k0l1m2",
+        "category_id": "7" ,
+        "ratings": 4.7,
+        "like": 155,
+        "food_name": "Pad Thai",
+        "food_img": "https://www.chicken.ca/wp-content/uploads/2013/05/Chicken-Shrimp-Curry-Pad-Thai-1180x580.jpg",
+        "recipe": "Pad Thai is a beloved Thai stir-fry dish that combines rice noodles with a medley of ingredients to create a harmonious and flavorful meal. Begin by stir-frying rice noodles with your choice of protein, whether it's succulent shrimp or tofu, along with bean sprouts, green onions, and crushed peanuts for a delightful contrast in textures and flavors. What truly sets Pad Thai apart is the irresistible tamarind-based sauce, which is both tangy and slightly sweet, with savory undertones. As the dish comes together, garnish it with a handful of fresh cilantro and lime wedges for a burst of citrusy brightness that elevates each bite. Pad Thai is a tantalizing blend of flavors and textures, making it a popular and satisfying Thai street food staple that's sure to satisfy your taste buds."
+    },
+    {
+        "_id": "6h7i8j9k0l1m2n3",
+        "category_id": "8" ,
+        "ratings": 4.3,
+        "like": 125,
+        "food_name": "California Roll Sushi",
+        "food_img": "https://allnutritious.com/wp-content/uploads/2022/11/1.-Vegan-Sushi-Rolls-768x512.jpg",
+        "recipe": "The California Roll Sushi is a delightful fusion of flavors and textures that embodies the artistry of sushi craftsmanship. To create this beloved roll, begin by crafting a sushi roll filled with a harmonious combination of crab or imitation crab, creamy avocado, and crisp cucumber. These ingredients are beautifully balanced, offering a contrast of creamy, crisp, and refreshing qualities. The roll is then expertly wrapped in a sheet of seaweed and sushi rice, creating a perfect balance of flavors and textures. The final touch is the artful slicing of the roll into elegant bite-sized pieces, revealing the contrast between the creamy avocado and the fresh, briny taste of the crab. Serve the California Roll Sushi with a side of soy sauce for dipping, offering an umami-rich counterpoint to the roll's fresh and vibrant flavors. Additionally, a dab of pickled ginger serves as a palate cleanser, ensuring that each bite is a delightful and harmonious fusion of ingredients that exemplify the essence of sushi artistry."
+    }
+
+]

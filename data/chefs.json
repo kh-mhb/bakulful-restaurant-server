@@ -1,0 +1,59 @@
+[
+    
+    {
+        "id": "1",
+        "name": "Chef Ming Wu",
+        "img": "https://crm-the-placement-international-group-ld.sfo2.digitaloceanspaces.com/store/picture/data/content-30607aafc2ff7ec65880493c5ea2e6c5.jpg",
+        "experience": "10 years",
+        "number": "50"
+    },
+    {
+        "id": "2",
+        "name": "Chef Li Yan",
+        "img": "https://koreajoongangdaily.joins.com/jmnet/koreajoongangdaily/_data/photo/2019/12/22200338.jpg",
+        "experience": "8 years",
+        "number": "45"
+    },
+    {
+        "id": "3",
+        "name": "Chef Zhang Wei",
+        "img": "https://assets.telegraphindia.com/telegraph/a22bb065-42e5-4272-ab9c-0a6f5bd684e1.jpg",
+        "experience": "12 years",
+        "number": "60"
+    },
+    {
+        "id": "4",
+        "name": "Chef Wang Mei",
+        "img": "https://media-cdn.tripadvisor.com/media/photo-s/1c/dd/a1/ec/our-new-menu-from-executive.jpg",
+        "experience": "6 years",
+        "number": "35"
+    },
+    {
+        "id": "5",
+        "name": "Chef Chen Xia",
+        "img": "https://www.foodiesfeed.com/wp-content/uploads/2023/06/chinese-chef.jpg",
+        "experience": "9 years",
+        "number": "48"
+    },
+    {
+        "id": "6",
+        "name": "Chef Liu Xiang",
+        "img": "https://farm8.staticflickr.com/7452/10378636233_2959bc764c_o.jpg",
+        "experience": "11 years",
+        "number": "50"
+    },
+    {
+        "id": "7",
+        "name": "Chef Yang Hui",
+        "img": "https://cococollection.com/images/uploads/blog/02_Johnny-Gu.jpg",
+        "experience": "7 years",
+        "number": "40"
+    },
+    {
+        "id": "8",
+        "name": "Chef Huang Lin",
+        "img": "https://cdn.tatlerasia.com/tatlerasia/i/2023/02/03115212-tp-kim-hock-feb-2023-cover2220-ok_cover_1000x1500.jpg",
+        "experience": "5 years",
+        "number": "30"
+    }
+]
